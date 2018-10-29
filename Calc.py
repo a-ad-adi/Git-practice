@@ -12,3 +12,8 @@ class Calc:
 	def sub(self)
 		return self.num1 - self.num2
 
+	def square_num1(self)
+		return self.num1 **2
+
+	def square_num2(self)
+		return self.num2 **2
