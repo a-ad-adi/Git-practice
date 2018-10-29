@@ -17,3 +17,6 @@ class Calc:
 
 	def square_num2(self)
 		return self.num2 **2
+
+	def divide(self)
+		return self.num1 / self.num2
