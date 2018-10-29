@@ -4,4 +4,7 @@ class Calc:
 		self.num2 = num2
 
 	def add(self)
-		return self.num1 + self.num2	
+		return self.num1 + self.num2
+
+	def multiply(self)
+		return self.num1 * self.num2
