@@ -8,3 +8,7 @@ class Calc:
 
 	def multiply(self)
 		return self.num1 * self.num2
+
+	def sub(self)
+		return self.num1 - self.num2
+
