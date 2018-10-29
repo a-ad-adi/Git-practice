@@ -12,3 +12,5 @@ class Calc:
 	def sub(self)
 		return self.num1 - self.num2
 
+	def divide(self)
+		return self.num1 / self.num2
