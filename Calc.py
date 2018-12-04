@@ -20,3 +20,6 @@ class Calc:
 
 	def divide(self)
 		return self.num1 / self.num2
+
+	def sqrt(self)
+		return sqrt(self.num1)	
